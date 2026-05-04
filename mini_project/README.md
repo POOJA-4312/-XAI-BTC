@@ -129,5 +129,4 @@ python app.py
 
 Kummari Pooja
 
-* or convert it into a **LinkedIn project post**
-* or help you **deploy it on Streamlit Cloud / GitHub Pages**
+
